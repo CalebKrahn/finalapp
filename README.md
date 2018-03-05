@@ -1,9 +1,9 @@
 # My Final App
 ## Caleb Krahn
 
-###This is the website for my Final App in my CIS-277 Advanced C++ class.
+### This is the website for my Final App in my CIS-277 Advanced C++ class.
 
-##Description
+## Description
 This app is used to determine whether you need to take your garbage out or not. It does not take into account for holidays or delayed garbage days. The app should ask which day your garage is taken, then get what day of the week it is, then tell you whether you need to take your garbage out or not.
 
 

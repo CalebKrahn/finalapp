@@ -1,4 +1,4 @@
-# My Final App
+# Is It Garbage Day?
 ## Caleb Krahn
 
 ### This is the website for my Final App in my CIS-277 Advanced C++ class.
